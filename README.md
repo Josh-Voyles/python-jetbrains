@@ -10,4 +10,4 @@ Each project contains multiple lessons and then project phases to help you apply
 
 The projects uploaded here are lacking many lesson plan and test files needed to complete the lesson.
 
-I've only uploaded here for the source code examples.
+The list of projects here are to help anyone stuck on these projects or serve as example of some projects completed for potential employers.
